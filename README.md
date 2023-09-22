@@ -2,7 +2,7 @@
 
 ## Motivation
 
-To justify the choice of implementation of the [object cache](https://github.com/voedger/voedger/issues/455), it is necessary to investigate the performance of various implementations of the cache.
+To justify the choice of implementation of the [Voedger object cache](https://github.com/voedger/voedger/issues/455), it is necessary to investigate the performance of various implementations of the cache.
 
 ## Cache implementation to investigate
 
